@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <!-- Profile README for GitHub user: YashMhatre13 -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=Hello+There!+%F0%9F%91%8B;I+am+Yash+Mhatre;CSE+Undergrad+%7C+Tech+Enthusiast;Open+Source+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F77F00&center=true&vCenter=true&width=435&lines=Hello+There!+%F0%9F%91%8B;I+am+Yash+Mhatre;CSE+Undergrad+%7C+Tech+Enthusiast; alt="Typing SVG" />
 </p>
 
 <h1 align="center">
