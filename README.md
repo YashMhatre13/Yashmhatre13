@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm YashMhatre13 👋
+# Hi, I'm Yash Mhatre 👋
 
 I am a Computer Science student passionate about coding, learning new technologies, and building projects.
 
