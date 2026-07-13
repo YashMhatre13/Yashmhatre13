@@ -40,10 +40,6 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashMhatre13&show_icons=true&theme=radical" alt="GitHub stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=YashMhatre13&theme=radical" alt="GitHub streak" />
 </p>
 
