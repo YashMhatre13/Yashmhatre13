@@ -34,15 +34,6 @@ Here are some ideas to get you started:
   - **React** – Frontend web development learning
 - 🌱 Currently learning **Languages**, **Problem solving models**.
 - 🚀 Passionate about creating useful, elegant, and efficient software.
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YashMhatre13&theme=radical" alt="GitHub streak" />
-</p>
-
 ---
 
 > ✨ _"Code is like humor. When you have to explain it, it’s bad."_  
