@@ -28,10 +28,10 @@ Here are some ideas to get you started:
 
 - 🎓 I'm a Computer Science Engineering undergrad.
 - 🖥️ Practicing and building with:
-  - **C++** – Problem-solving & OOP
-  - **JavaScript** – Dynamic and interactive development
-  - **HTML/CSS** – Clean, semantic structure
-  - **React** – Frontend web development
+  - **C++,Python** – Problem-solving & OOP
+  - **JavaScript** – Dynamic and interactive development practice
+  - **HTML** – Clean, semantic structure
+  - **React** – Frontend web development learning
 - 🌱 Currently learning **Languages**, **Problem solving models**.
 - 🚀 Passionate about creating useful, elegant, and efficient software.
 
